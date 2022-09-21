@@ -12,7 +12,7 @@
 
 ### Links
 
-- Github Pages: [Github Pages](https://gkhuskivadze.github.io/QR-Code-Markup/)
+- Github Pages: [VIEW ONLINE](https://gkhuskivadze.github.io/QR-Code-Markup/)
 
 ### Built with
 
