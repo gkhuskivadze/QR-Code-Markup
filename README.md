@@ -8,7 +8,7 @@
 
 ### Screenshot
 
-![Screenshot](/QRCODE/Screenshot-2022-09-21.png)
+![Screenshot](/QRCODE/images/Screenshot-2022-09-21.png)
 
 ### Links
 
